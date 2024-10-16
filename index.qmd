@@ -1,0 +1,14 @@
+---
+title: "About"
+---
+
+```{r echo = FALSE, out.width = "400px"}
+knitr::include_graphics("website_photo.png")
+```
+
+I am a graduate student at the [Department of Linguistics](https://linguistics.ucdavis.edu/) at [UC Davis](https://www.ucdavis.edu/). This is an example of a student website created using quarto and hosted on GitHub Pages. Feel free to use this template for your own website. 
+
+
+
+
+
