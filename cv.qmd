@@ -11,7 +11,7 @@ title: "CV"
 
 <br>
 
-### Education
+# Education
 
 PhD in Linguistics \
 2026 (expected) \
@@ -33,18 +33,30 @@ California State University Fullerton
 
 \
 
-### Publications in refereed journals\
+# Publications in refereed journals\
   
-2024 "Title of paper." *Journal of Linguistics* 1(1): 1-10. (with A. B. Author)
+2024 (in press) "DECOR: Improving Coherence in L2 English Writing with a Novel Benchmark for Coherence Detection, Reasoning, and Rewriting." https://arxiv.org/pdf/2406.19650 *Association of Computational Linguistics* 1(1): 1-10. (with Z. Zhang, Z. Chen, Q. Wu, Q. Kun, E. Voss, & Y. Zhou)
 
-### Presentations
+# Presentations
 
 2023 "Japanese Learners’ Perception of Stress Contrasts in English Word-class Pairs." *49th Annual International Conference on Language Teaching and Learning & Educational Materials Exhibition. * Tsukuba, Ibaraki, Japan. (with M. Campos)
 \
 
 2022 "Phonetics Applied: An acoustic analysis of Japanese L2 English." *48th Annual International Conference on Language Teaching and Learning & Educational Materials Exhibition.* Fukuoka, Japan.
 
-### Teaching Experience
+2022 "Phonological Clustering; A different approach to L2 vocabulary instruction." *The 2022 JALT PanSIG Conference.* Nagano, Japan.
+
+2020 "Lexical Connections and their Implications for Vocabulary Acquisition." *11th Annual JALT Oita Language Learning Symposium.* Oita, Japan.
+
+2019 "Incorporating an External Online Test into a University Language Program." *45th Annual International Conference on Language Teaching and Learning & Educational Materials Exhibition.* Nagoya, Japan. (with S. Pattison, T. Eto, P. Johnston, K. Jones, M. Larking, & M. Philips)
+
+2019 "Adding Pronunciation Instruction to the Classroom." *The 2019 JALT PanSIG Conference.* Nishinomiya, Japan.
+
+2019 "Towards Improving Japanese EFL Learners' Pronunciation: The impact of teaching suprasegmentals on intelligibility." *The Asia Pacific Language Journal Symposium.* Beppu, Japan.
+
+
+
+# Teaching Experience
 
 2024 Associate Instructor in Japanese, Department of East Asian Languages and Cultures, University of California, Davis.
 
@@ -53,3 +65,17 @@ California State University Fullerton
 2021-2023 English Lecturer, School of International Liberal Arts, Miyazaki International University, Miyazaki, Japan.
 
 2015-2020 English Lecturer, Center for Language Education, Ritsumeikan Asia Pacific University, Beppu, Japan.
+
+2014-2015 Assistant Language Teacher, JET Programme, Sasebo Board of Education, Sasebo, Japan.
+
+2013 ESL Instructor, UCLA Extension Intensive English Program, Los Angeles, CA
+
+2011-2014 ESL Instructor, ESL Institute LA, Torrance, CA
+
+# Awards, Distinctions and Fellowships
+
+2024 College of Letters and Science Dean's Summer Fellowship, The University of California, Davis
+
+2023 Michales Student Living Scholarship, The Michaels Organization
+
+2023 Selected Paper for 2022 JALT National Conference, The Japan Association for Language Teaching
