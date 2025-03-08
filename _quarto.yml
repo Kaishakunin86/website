@@ -13,7 +13,7 @@ website:
         text: CV
 format:
   html:
-    theme: superhero
+    theme: solar
     toc: true
 
 

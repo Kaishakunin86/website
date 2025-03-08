@@ -2,4 +2,17 @@
 title: "Research"
 ---
 
-My graduate research focuses on questions related to how listeners use socio-indexical information for the weighting of varying phonetic cues in the process of speech perception. I have recently completed a speech perception experiment at UC Davis that will serve as basis of my qualifying paper for PhD candidacy in Linguistics.
+I have two broad research interests related to the linguistic sub-fields of *speech perception* and *computational linguistics*. 
+
+## Vowel Perception 
+My dissertation research will focus on investigating how the fundamental frequency (f0) and higher formants (f3-f5) affect the perception of vowel quality in English. Some questions that I hope to answer are related to how perceptual categorization boundaries shift according with manipulations in f0 and the higher formants. Through my work I hope to address the nature of the effect of f0 and the higher formants and their magnitudes in relation to the uniform scaling hypothesis and the Probabilistic Sliding Template Model of Vowel Perception (PSTM). 
+
+In my qualifying exam paper, I looked at how listeners use the socio-indexical information of gender to inform the weighting of vowel duration and its effect on the perception of voicing for coda stops in English. 
+
+## Applications of Large Language Models to Language Learning and Assessment
+
+Given my background in teaching English both as a foreign and second language, I am interested in applying Large Language Models (LLMs) to some issues related to second language teaching.
+
+Currently, I am working on a research project that focuses on using writing rubrics to train LLMs for the purpose of classifying learner produced text into the appropriate level.
+
+I have also completed and published research that focused on leveraging LLMs for the purpose of detecting and improving coherence in the writing of English language learners.

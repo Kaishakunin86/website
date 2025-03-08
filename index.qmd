@@ -6,7 +6,8 @@ title: "About"
 knitr::include_graphics("website_photo.png")
 ```
 
-I am a graduate student in the [Department of Linguistics](https://linguistics.ucdavis.edu/) at [UC Davis](https://www.ucdavis.edu/). I have over 12 years of language teaching experience both in the U.S. and abroad in Japan. 
+I am a graduate student in the [Department of Linguistics](https://linguistics.ucdavis.edu/) at [UC Davis](https://www.ucdavis.edu/) working with Dr. [Santiago Barreda](https://www.santiagobarreda.com). \
+I hold a Bachelor of Arts in Japanese and a Master of Science in Education (TESOL) both from California State University, Fullerton. In addition to these academic degrees, I have over 12 years of language teaching experience both in the U.S. and abroad in Japan. 
 
 
 

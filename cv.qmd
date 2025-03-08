@@ -13,64 +13,123 @@ title: "CV"
 
 # Education
 
-PhD in Linguistics \
+**PhD in Linguistics** \
 2026 (expected) \
 University of California, Davis
 
-M.A. in Linguistics \
+**M.A. in Linguistics** \
 2020-2024 \
+Advisor Dr. Santiago Barreda \
 University of California, Davis
 
-M.S. in Education (TESOL)
+**M.S. in Education** (TESOL)
 \
 2011-2013 \
-California State University Fullerton
+California State University, Fullerton
   
-B.A. in Japanese 
+**B.A. in Japanese** 
 \
 2009-2011 \
-California State University Fullerton
+California State University, Fullerton
 
 \
 
-# Publications in refereed journals\
-  
-2024 (in press) "DECOR: Improving Coherence in L2 English Writing with a Novel Benchmark for Coherence Detection, Reasoning, and Rewriting." https://arxiv.org/pdf/2406.19650 *Association of Computational Linguistics* 1(1): 1-10. (with Z. Zhang, Z. Chen, Q. Wu, Q. Kun, E. Voss, & Y. Zhou)
+# Publications
+## 2024
+Zhang, X., Diaz, A., Chen, Z., Wu, Q., Qian, K., Voss, E., & Yu, Z. (2024).
+DECOR: Improving Coherence in L2 English Writing with a Novel Benchmark for Incoherence Detection, Reasoning, and Rewriting. In Proceedings of the 2024 Conference on Empirical Methods in Natural Language Processing (pp. 11436-11458). [link](https://arxiv.org/pdf/2406.19650)
+
+Duval, C. R., Booker, N. P., Brotherton, C., Diaz, A. M., & Jasbi, M. (2024). Using constructed languages to introduce and teach linguistics. Linguistics Vanguard, 10(s3), 201-214. [link](https://www.degruyter.com/document/doi/10.1515/lingvan-2024-0091/html)
+
+## 2023
+Diaz, A. M. (2023). Phonetics applied: An acoustic analysis of Japanese L2 English. In P. Ferguson, B. Lacy, & R. Derrah (Eds.), Learning from Students, Educating Teachers–Research and Practice. JALT. [link](https://doi.org/10.37546/JALTPCP2022-10) 
+
+Diaz, A. M. (2023). Phonological clustering: A different approach to L2 vocabulary instruction. PanSIG Journal 2022. [link](https://pansig.org/publications/2022/PanSIG_2022_Journal.pdf)
+
+## 2020 - 2021
+
+Diaz, A. (2021). Articulatory setting: An overlooked aspect of L2 pronunciation?. Comparative Culture: The Journal of Miyazaki International College, 26, 37-47. [link](https://meilib.repo.nii.ac.jp/records/844)
+
+Pattison, S., Diaz, A., Eto, T., Johnston, P., Jones, K., Larking, M., & Phillips, M. (2020). Incorporating an external online test into a university language program. In P. Clements, A. Krause, & R. Gentry (Eds.), Teacher efficacy, learner agency. Tokyo: JALT. 154-166. [link](https://d1wqtxts1xzle7.cloudfront.net/94886054/jalt2019-pcp-061-libre.pdf?1669503868=&response-content-disposition=inline%3B+filename%3DIncorporating_an_External_Online_Test_In.pdf&Expires=1741393945&Signature=EzQBcZd-RlVUHMrDs~dv5FO6GgEUXjBTwf8Whhs1X6ourMGzAnoIDW8gGYEcBTbnD~ruDpTEyoXy-J5whNf8XeYRShtPXr~l93jWAF2bg6qzhIfl0sHfeG7CN97jjDUQXV1Y4X3vX-beJ71NXo8mEQyUFIBeg09j6MnyLrJNb3vs5yqRBiMoe3TnsV8lML49rkQmpGsmD6o0Z4eaSKSByVbZt0awyeENZC73S7qjKmR3z~K4KyMbYdQle2Ukc7OtUJRjA1GTDKvRiCcnosoPhOzy69XqIKzxPMz5uDIHSIfJ5C2Rw863LwvnhLEQGhQA0HLqhbDB6yjtn3mXzFRXSQ__&Key-Pair-Id=APKAJLOHF5GGSLRBV4ZA)
+
+Diaz, A. (2020). Adding pronunciation instruction to the classroom. PanSIG Journal 2019, 64-73. [link](https://www.pansig.org/publications/2019/PanSIG_2019_Journal.pdf#page=70) 
+
+Diaz, A. (2020). The APU Corpus of Japanese Learner English. APU Journal of Language Research, 5, 38-55.[link](https://www.jstage.jst.go.jp/article/apujlr/5/0/5_3/_pdf/-char/ja)
+
+## 2017 - 2019
+
+Diaz, A. (2019). Developing a pilot learner corpus: New directions in writing instruction. APU Journal of Language Research, 4, 84-90. [link](https://www.jstage.jst.go.jp/article/apujlr/4/0/4_84/_pdf/-char/ja)
+
+Diaz, A. (2017). Towards improving Japanese EFL learners’ pronunciation: The impact of teaching suprasegmentals on intelligibility. APU Journal of Language Research, 2, 69-84. [link](https://www.jstage.jst.go.jp/article/apujlr/2/0/2_69/_pdf/-char/ja) 
+
 
 # Presentations
 
-2023 "Japanese Learners’ Perception of Stress Contrasts in English Word-class Pairs." *49th Annual International Conference on Language Teaching and Learning & Educational Materials Exhibition. * Tsukuba, Ibaraki, Japan. (with M. Campos)
-\
+## 2022 - 2023
+Diaz, A. M., & Campos, M. (2023). Japanese Learners’ Perception of Stress Contrasts in English Word-class Pairs. 
+*49th Annual International Conference on Language Teaching and Learning & Educational Materials Exhibition*, Tsukuba, November 25th, 2023. JALT, 2023
 
-2022 "Phonetics Applied: An acoustic analysis of Japanese L2 English." *48th Annual International Conference on Language Teaching and Learning & Educational Materials Exhibition.* Fukuoka, Japan.
+Diaz, A. M. (2022). Phonetics Applied: An acoustic analysis of Japanese L2 English. *48th Annual International Conference on Language Teaching and Learning & Educational Materials Exhibition*, Fukuoka, November 13th, 2022. JALT, 2022.
 
-2022 "Phonological Clustering; A different approach to L2 vocabulary instruction." *The 2022 JALT PanSIG Conference.* Nagano, Japan.
+Diaz, A. M. (2022). Phonological clustering: A different approach to L2 vocabulary instruction. *The 2022 JALT PanSIG Conference*, Ngano, July 9th, 2022. The University of Nagano: JALT, 2022.
 
-2020 "Lexical Connections and their Implications for Vocabulary Acquisition." *11th Annual JALT Oita Language Learning Symposium.* Oita, Japan.
+Diaz, A. (2020) Lexical Connections and their Implications for Vocabulary Acquisition. *11th Annual JALT Oita Language Learning Symposium*, Oita (online), October 10th, 2020. JALT Oita Chapter, 2020. 
 
-2019 "Incorporating an External Online Test into a University Language Program." *45th Annual International Conference on Language Teaching and Learning & Educational Materials Exhibition.* Nagoya, Japan. (with S. Pattison, T. Eto, P. Johnston, K. Jones, M. Larking, & M. Philips)
+Pattison, S., Diaz, A., Eto, T., Johnston, P., Jones, K., Larking, M., & Phillips, M. (2019). Incorporating an External Online Test into a University Language Program. *45th Annual International Conference on Language Teaching and Learning & Educational Materials Exhibition*, Nagoya, November 2nd 2019. JALT, 2019
 
-2019 "Adding Pronunciation Instruction to the Classroom." *The 2019 JALT PanSIG Conference.* Nishinomiya, Japan.
+Diaz, A. (2019) Adding Pronunciation Instruction to the Classroom. *The 2019 JALT PanSIG Conference*, Nishinomiya, May 18th, 2019. Konan University, CUBE Campus: JALT, 2019
 
-2019 "Towards Improving Japanese EFL Learners' Pronunciation: The impact of teaching suprasegmentals on intelligibility." *The Asia Pacific Language Journal Symposium.* Beppu, Japan.
+Diaz, A. (2019) Towards Improving Japanese EFL Learners' Pronunciation: The Impact of Teaching Suprasegmentals on Intelligibility. *The APLJ Symposium*, Beppu, May 8th 2019. Ritsumeikan APU: APLJ, 2019
+
+Diaz, A. (2017) Cryptocurrencies: A world of opportunities for business and investment. *Proceedings of the 15th annual AP Conference*, Beppu, November 11th 2017. Ritsumeikan APU: RCAPS, 2017. 12-13. 
 
 
 
 # Teaching Experience
 
-2024 Associate Instructor in Japanese, Department of East Asian Languages and Cultures, University of California, Davis.
 
-2020-2021 & 2023-2024 Teaching Assistant, Department of Linguistics, University of California, Davis.
 
-2021-2023 English Lecturer, School of International Liberal Arts, Miyazaki International University, Miyazaki, Japan.
+### Associate Instructor in Japanese
+fall quarter, 2024 \
+Department of East Asian Languages and Cultures \
+University of California, Davis.
 
-2015-2020 English Lecturer, Center for Language Education, Ritsumeikan Asia Pacific University, Beppu, Japan.
+### Teaching Assistant
+2020 - 2021 & 2023 - Current \
+Department of Linguistics \
+University of California, Davis.
 
-2014-2015 Assistant Language Teacher, JET Programme, Sasebo Board of Education, Sasebo, Japan.
+## Full-time Experience
 
-2013 ESL Instructor, UCLA Extension Intensive English Program, Los Angeles, CA
+### Lecturer of English as a Foreign Langauge
+2021-2023 \
+School of International Liberal Arts \
+Miyazaki International University \
+Miyazaki, Japan.
 
-2011-2014 ESL Instructor, ESL Institute LA, Torrance, CA
+2015-2020 \
+Center for Language Education \
+Ritsumeikan Asia Pacific University \
+Beppu, Japan.
+
+### Assistant Language Teacher
+2014-2015 \
+JET Programme \
+Sasebo Board of Education \
+Sasebo, Japan.
+
+## Part-time Experience
+
+### Instructor of English as a Foreign Language
+Summer 2013 \
+UCLA Extension \
+Intensive English Program \
+Los Angeles, CA
+
+2011-2014 \
+ESL Institute LA \
+Language School \
+Torrance, CA
 
 # Awards, Distinctions and Fellowships
 
