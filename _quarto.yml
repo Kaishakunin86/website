@@ -13,7 +13,7 @@ website:
         text: CV
 format:
   html:
-    theme: solar
+    theme: flatly
     toc: true
 
 
