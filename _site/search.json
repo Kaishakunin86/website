@@ -1,19 +1,5 @@
 [
   {
-    "objectID": "cv.html",
-    "href": "cv.html",
-    "title": "CV",
-    "section": "",
-    "text": "###### Associate Professor ###### English Program for Global Mobility ###### Faculty of Global Management Studies ###### The University of Nagano ###### diaz.anthony@u-nagano.ac.jp"
-  },
-  {
-    "objectID": "research.html",
-    "href": "research.html",
-    "title": "Research",
-    "section": "",
-    "text": "I have two broad research interests related to the linguistic sub-fields of speech perception and computational linguistics."
-  },
-  {
     "objectID": "cv.html#section",
     "href": "cv.html#section",
     "title": "CV",
@@ -56,11 +42,25 @@
     "text": "2017 - 2020\nDiaz, A. (2020) Lexical Connections and their Implications for Vocabulary Acquisition. 11th Annual JALT Oita Language Learning Symposium, Oita (online), October 10th, 2020. JALT Oita Chapter, 2020.\nPattison, S., Diaz, A., Eto, T., Johnston, P., Jones, K., Larking, M., & Phillips, M. (2019). Incorporating an External Online Test into a University Language Program. 45th Annual International Conference on Language Teaching and Learning & Educational Materials Exhibition, Nagoya, November 2nd 2019. JALT, 2019\nDiaz, A. (2019) Adding Pronunciation Instruction to the Classroom. The 2019 JALT PanSIG Conference, Nishinomiya, May 18th, 2019. Konan University, CUBE Campus: JALT, 2019\nDiaz, A. (2019) Towards Improving Japanese EFL Learners’ Pronunciation: The Impact of Teaching Suprasegmentals on Intelligibility. The APLJ Symposium, Beppu, May 8th 2019. Ritsumeikan APU: APLJ, 2019\nDiaz, A. (2017) Cryptocurrencies: A world of opportunities for business and investment. Proceedings of the 15th annual AP Conference, Beppu, November 11th 2017. Ritsumeikan APU: RCAPS, 2017. 12-13."
   },
   {
-    "objectID": "index.html",
-    "href": "index.html",
-    "title": "About",
+    "objectID": "cv.html#full-time-experience",
+    "href": "cv.html#full-time-experience",
+    "title": "CV",
+    "section": "Full-time Experience",
+    "text": "Full-time Experience\n\nAssociate Professor in English as a Foreign Language\n2026 - Current\nEnglish Program for Global Mobility\nFaculty of Global Management Studies\nThe University of Nagano\nNagano, Japan\n\n\nLecturer of English as a Foreign Langauge\n2021-2023\nSchool of International Liberal Arts\nMiyazaki International University\nMiyazaki, Japan.\n2015-2020\nCenter for Language Education\nRitsumeikan Asia Pacific University\nBeppu, Japan.\n\n\nAssistant Language Teacher\n2014-2015\nJET Programme\nSasebo Board of Education\nSasebo, Japan."
+  },
+  {
+    "objectID": "cv.html#part-time-experience",
+    "href": "cv.html#part-time-experience",
+    "title": "CV",
+    "section": "Part-time Experience",
+    "text": "Part-time Experience\n\nReader in Linguistics (LIN 127)\nwinter quarter 2026\nDepartment of Linguistics\nUniversity of California, Davis.\n\n\nAssociate Instructor in Japanese (JPN 001, JPN 151)\nfall quarter, 2024; winter quarter 2026\nDepartment of East Asian Languages and Cultures\nUniversity of California, Davis.\n\n\nTeaching Assistant (LIN 001, LIN 177)\n2020 - 2021 & 2023 - Current\nDepartment of Linguistics\nUniversity of California, Davis.\n\n\nInstructor of English as a Foreign Language\nSummer 2013\nUCLA Extension\nIntensive English Program\nLos Angeles, CA\n2011-2014\nESL Institute LA\nLanguage School\nTorrance, CA"
+  },
+  {
+    "objectID": "research.html",
+    "href": "research.html",
+    "title": "Research",
     "section": "",
-    "text": "I am an Associate Professor in the English Program for Global Mobility at the University of Nagano and a Ph.D. candidate in the Department of Linguistics at UC Davis working with Dr. Santiago Barreda.\n\nI hold a Master of Arts in Linguistics from UC Davis, a Bachelor of Arts in Japanese, and a Master of Science in Education (TESOL) both from California State University, Fullerton. In addition to these academic degrees, I have over 12 years of language teaching experience both in the U.S. and abroad in Japan."
+    "text": "I have two broad research interests related to the linguistic sub-fields of speech perception and computational linguistics."
   },
   {
     "objectID": "research.html#vowel-perception",
@@ -77,24 +77,10 @@
     "text": "Applications of Large Language Models to Language Learning and Assessment\nGiven my background in teaching English both as a foreign and second language, I am interested in applying Large Language Models (LLMs) to issues related to second language teaching.\nCurrently, I am interested in leveraging CEFR descriptors and writing rubrics to train models that can reliably perform level placement.\nI have also completed and published research that focused on leveraging LLMs for the purpose of detecting and improving coherence in the writing of English language learners, and co-authored a paper for the 2024 EMNLP."
   },
   {
-    "objectID": "cv.html#fall-quarter-2024",
-    "href": "cv.html#fall-quarter-2024",
-    "title": "CV",
-    "section": "Fall Quarter 2024",
-    "text": "Fall Quarter 2024\nAssociate Instructor in Japanese\nDepartment of East Asian Languages and Cultures\nUniversity of California, Davis.\n2020-2021 & 2023-2024 Teaching Assistant, Department of Linguistics, University of California, Davis.\n2021-2023 English Lecturer, School of International Liberal Arts, Miyazaki International University, Miyazaki, Japan.\n2015-2020 English Lecturer, Center for Language Education, Ritsumeikan Asia Pacific University, Beppu, Japan.\n2014-2015 Assistant Language Teacher, JET Programme, Sasebo Board of Education, Sasebo, Japan.\n2013 ESL Instructor, UCLA Extension Intensive English Program, Los Angeles, CA\n2011-2014 ESL Instructor, ESL Institute LA, Torrance, CA"
-  },
-  {
-    "objectID": "cv.html#part-time-experience",
-    "href": "cv.html#part-time-experience",
-    "title": "CV",
-    "section": "Part-time Experience",
-    "text": "Part-time Experience\n\nReader in Linguistics (LIN 127)\nwinter quarter 2026\nDepartment of Linguistics\nUniversity of California, Davis.\n\n\nAssociate Instructor in Japanese (JPN 001, JPN 151)\nfall quarter, 2024; winter quarter 2026\nDepartment of East Asian Languages and Cultures\nUniversity of California, Davis.\n\n\nTeaching Assistant (LIN 001, LIN 177)\n2020 - 2021 & 2023 - Current\nDepartment of Linguistics\nUniversity of California, Davis.\n\n\nInstructor of English as a Foreign Language\nSummer 2013\nUCLA Extension\nIntensive English Program\nLos Angeles, CA\n2011-2014\nESL Institute LA\nLanguage School\nTorrance, CA"
-  },
-  {
-    "objectID": "cv.html#full-time-experience",
-    "href": "cv.html#full-time-experience",
-    "title": "CV",
-    "section": "Full-time Experience",
-    "text": "Full-time Experience\n\nAssociate Professor in English as a Foreign Language\n2026 - Current\nEnglish Program for Global Mobility\nFaculty of Global Management Studies\nThe University of Nagano\nNagano, Japan\n\n\nLecturer of English as a Foreign Langauge\n2021-2023\nSchool of International Liberal Arts\nMiyazaki International University\nMiyazaki, Japan.\n2015-2020\nCenter for Language Education\nRitsumeikan Asia Pacific University\nBeppu, Japan.\n\n\nAssistant Language Teacher\n2014-2015\nJET Programme\nSasebo Board of Education\nSasebo, Japan."
+    "objectID": "index.html",
+    "href": "index.html",
+    "title": "About",
+    "section": "",
+    "text": "I am an Associate Professor in the English Program for Global Mobility at the University of Nagano and a Ph.D. candidate in the Department of Linguistics at UC Davis working with Dr. Santiago Barreda.\n\nI hold a Master of Arts in Linguistics from UC Davis, a Bachelor of Arts in Japanese, and a Master of Science in Education (TESOL) both from California State University, Fullerton. In addition to these academic degrees, I have over 12 years of language teaching experience both in the U.S. and abroad in Japan."
   }
 ]

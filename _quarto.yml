@@ -1,6 +1,5 @@
 project:
   type: website
-  output-dir: docs
 
 website:
   title: "Anthony M. Diaz"
@@ -16,6 +15,10 @@ format:
   html:
     theme: flatly
     toc: true
+    output-dir: .
+
+resources:
+ - CNAME
 
 
 
