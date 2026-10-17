@@ -2,19 +2,25 @@
 title: "CV"
 ---
 
-##### PhD Student
+#### PhD Candidate
 ###### Department of Linguistics
-###### University of California Davis
-###### 255 Kerr Hall, One Shields Avenue
-###### Davis, CA 95616
+###### University of California, Davis
 ###### antdiaz@ucdavis.edu
+
+\
+
+#### Associate Professor 
+###### English Program for Global Mobility
+###### Faculty of Global Management Studies
+###### The University of Nagano
+###### diaz.anthony@u-nagano.ac.jp
 
 <br>
 
 # Education
 
 **PhD in Linguistics** \
-2026 (expected) \
+2027 (expected) \
 University of California, Davis
 
 **M.A. in Linguistics** \
@@ -65,6 +71,8 @@ Diaz, A. (2017). Towards improving Japanese EFL learners’ pronunciation: The i
 
 # Presentations
 
+Diaz, A. M. (2026). Japanese L2 Learners’ Perception of Japanese Phonemic Vowel Length Contrasts. The 40th General Meeting of the Japanese Phonetic Society, September 13th, 2026. The Phonetic Society of Japan, 2026.
+
 ## 2022 - 2023
 Diaz, A. M., & Campos, M. (2023). Japanese Learners’ Perception of Stress Contrasts in English Word-class Pairs. 
 *49th Annual International Conference on Language Teaching and Learning & Educational Materials Exhibition*, Tsukuba, November 25th, 2023. JALT, 2023
@@ -73,6 +81,7 @@ Diaz, A. M. (2022). Phonetics Applied: An acoustic analysis of Japanese L2 Engli
 
 Diaz, A. M. (2022). Phonological clustering: A different approach to L2 vocabulary instruction. *The 2022 JALT PanSIG Conference*, Ngano, July 9th, 2022. The University of Nagano: JALT, 2022.
 
+## 2017 - 2020
 Diaz, A. (2020) Lexical Connections and their Implications for Vocabulary Acquisition. *11th Annual JALT Oita Language Learning Symposium*, Oita (online), October 10th, 2020. JALT Oita Chapter, 2020. 
 
 Pattison, S., Diaz, A., Eto, T., Johnston, P., Jones, K., Larking, M., & Phillips, M. (2019). Incorporating an External Online Test into a University Language Program. *45th Annual International Conference on Language Teaching and Learning & Educational Materials Exhibition*, Nagoya, November 2nd 2019. JALT, 2019
@@ -87,19 +96,14 @@ Diaz, A. (2017) Cryptocurrencies: A world of opportunities for business and inve
 
 # Teaching Experience
 
-
-
-### Associate Instructor in Japanese
-fall quarter, 2024 \
-Department of East Asian Languages and Cultures \
-University of California, Davis.
-
-### Teaching Assistant
-2020 - 2021 & 2023 - Current \
-Department of Linguistics \
-University of California, Davis.
-
 ## Full-time Experience
+
+### Associate Professor in English as a Foreign Language
+2026 - Current \
+English Program for Global Mobility \
+Faculty of Global Management Studies \
+The University of Nagano \
+Nagano, Japan
 
 ### Lecturer of English as a Foreign Langauge
 2021-2023 \
@@ -120,6 +124,21 @@ Sasebo, Japan.
 
 ## Part-time Experience
 
+### Reader in Linguistics (LIN 127)
+winter quarter 2026 \
+Department of Linguistics \
+University of California, Davis.
+
+### Associate Instructor in Japanese (JPN 001, JPN 151)
+fall quarter, 2024; winter quarter 2026 \
+Department of East Asian Languages and Cultures \
+University of California, Davis.
+
+### Teaching Assistant (LIN 001, LIN 177)
+2020 - 2021 & 2023 - Current \
+Department of Linguistics \
+University of California, Davis.
+
 ### Instructor of English as a Foreign Language
 Summer 2013 \
 UCLA Extension \
@@ -133,8 +152,24 @@ Torrance, CA
 
 # Awards, Distinctions and Fellowships
 
-2024 College of Letters and Science Dean's Summer Fellowship, The University of California, Davis
+2026 - Nancy Webb Fellowship Award, The University of California, Davis	
 
-2023 Michales Student Living Scholarship, The Michaels Organization
+2026 - College of Letters and Science Dean’s Summer Fellowship, \
+The University of California, Davis						
 
-2023 Selected Paper for 2022 JALT National Conference, The Japan Association for Language Teaching
+2025 - Department of Linguistics Robert Bayley Award, \
+The University of California, Davis	
+
+2025 - Department of Linguistics Steven G. Lapointe Award, \
+The University of California, Davis			
+
+2025 - College of Letters and Science Dean’s Summer Fellowship, 
+The University of California, Davis	\
+
+2024 - College of Letters and Science Dean's Summer Fellowship, \
+The University of California, Davis
+
+2023 - Michales Student Living Scholarship, The Michaels Organization \
+
+2023 - Selected Paper for 2022 JALT National Conference, \
+The Japan Association for Language Teaching

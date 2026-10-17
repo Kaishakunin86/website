@@ -5,14 +5,14 @@ title: "Research"
 I have two broad research interests related to the linguistic sub-fields of *speech perception* and *computational linguistics*. 
 
 ## Vowel Perception 
-My dissertation research will focus on investigating how the fundamental frequency (f0) and higher formants (f3-f5) affect the perception of vowel quality in English. Some questions that I hope to answer are related to how perceptual categorization boundaries shift according with manipulations in f0 and the higher formants. Through my work I hope to address the nature of the effect of f0 and the higher formants and their magnitudes in relation to the uniform scaling hypothesis and the Probabilistic Sliding Template Model of Vowel Perception (PSTM). 
+My dissertation research focuses on investigating how modulation in fundamental frequency (F0) and higher formants (F3-F5) affects the perception of vowel quality in English by examining listeners' perceptual behavior. Some questions that I hope to answer through this work include how F0 and the higher formants affect the perceptual dimensions of F1 (vowel height) and F2 (vowel frontness) and how listeners' perceptual categorization boundaries shift according to these manipulations. Through my work I hope to better understand the nature and magnitude of F0- and the higher formant-induced perceptual shifts in reference to the uniform scaling hypothesis and the Probabilistic Sliding Template Model of Vowel Perception (PSTM). 
 
-In my qualifying exam paper, I looked at how listeners use the socio-indexical information of gender to inform the weighting of vowel duration and its effect on the perception of voicing for coda stops in English. 
+My other work in speech perception has focused on how socio-indexical information affects perceptual decisions in L1 and L2 contexts. My qualifying paper for my Ph.D. in Linguistics investigated how listeners use the socio-indexical information of apparent gender to inform the perceptual weighting of vowel duration and its effect on the perception of voicing for coda stops in English. In addition, I have conducted experimental research that investigates the perception of contrastive vowel quantity for L2 Japanese speakers.
 
 ## Applications of Large Language Models to Language Learning and Assessment
 
-Given my background in teaching English both as a foreign and second language, I am interested in applying Large Language Models (LLMs) to some issues related to second language teaching.
+Given my background in teaching English both as a foreign and second language, I am interested in applying Large Language Models (LLMs) to issues related to second language teaching.
 
-Currently, I am working on a research project that focuses on using writing rubrics to train LLMs for the purpose of classifying learner produced text into the appropriate level.
+Currently, I am interested in leveraging CEFR descriptors and writing rubrics to train models that can reliably perform level placement.
 
-I have also completed and published research that focused on leveraging LLMs for the purpose of detecting and improving coherence in the writing of English language learners.
+I have also completed and published research that focused on leveraging LLMs for the purpose of detecting and improving coherence in the writing of English language learners, and co-authored a paper for the 2024 EMNLP.
